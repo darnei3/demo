@@ -11,6 +11,6 @@ public class Controller {
 
     @GetMapping()
     public String test(){
-        return "V3.5 Hello its demo project for test";
+        return "V4.0 Hello its demo project for test";
     }
 }
